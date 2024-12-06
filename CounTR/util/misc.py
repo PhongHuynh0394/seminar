@@ -22,7 +22,7 @@ import pandas as pd
 import torch
 import torch.distributed as dist
 import wandb
-from torch._six import inf
+from torch import inf
 import matplotlib.pyplot as plt
 from torchvision import transforms
 import cv2
