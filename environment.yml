@@ -20,3 +20,4 @@ dependencies:
       - imgaug
       - hub
       - gdown
+      - wandb
